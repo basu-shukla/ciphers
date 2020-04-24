@@ -1,2 +1,4 @@
 This is added from git hub, again append from git hub
 added feature1
+
+fixed a bug in feature-1
